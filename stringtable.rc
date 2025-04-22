@@ -1,0 +1,36 @@
+﻿#define LANG_ENGLISH  0x0009
+#define LANG_RUSSIAN  0x0019
+
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, 0x1
+
+BEGIN
+  6000, "BDStructure"
+  6001, "Restore Blu-ray folder structure"
+  6002, "Failed to get the path to the Blu-ray root folder. You are probably running an executable, but this program works differently.\n\nDo you want to open the user manual?"
+  6003, "Failed to open user manual."
+  6004, "Blu-ray folder structure is complete and does not need to be restored."
+  6005, "The selected folder is not a Blu-ray root folder. Select the folder containing the BDMV folder."
+  6006, "There is no STREAM folder in the BDMV folder. It's not a Blu-ray."
+  6007, "M2TS files are not found in the STREAM folder. It's not Blu-ray."
+  6008, "There is only one M2TS file in the STREAM folder. It's probably Remux. Restoring the folder structure will not turn Remux into Blu-ray.\n\nDo you want to continue?"
+  6009, "Failed to create folder:"
+  6010, "Blu-ray folder structure restored successfully!"
+End
+
+STRINGTABLE
+LANGUAGE LANG_RUSSIAN, 0x1
+
+BEGIN
+  6000, "BDStructure"
+  6001, "Восстановить структуру папок Blu-ray"
+  6002, "Не удалось получить путь к корневой папке Blu-ray. Вероятно, вы запускаете исполняемый файл, но эта программа работает иначе.\n\nОткрыть руководство пользователя?"
+  6003, "Не удалось открыть руководство пользователя."
+  6004, "Структура папок Blu-ray полная и не нуждается в восстановлении."
+  6005, "Выбранная папка не является корневой папкой Blu-ray. Выберите папку содержащую папку BDMV."
+  6006, "В папке BDMV отсутствует папка STREAM. Это не Blu-ray."
+  6007, "В папке STREAM не найдены M2TS файлы. Это не Blu-ray."
+  6008, "В папке STREAM всего один файл M2TS. Вероятно, это Remux. Восстановление структуры папок не превратит Remux в Blu-ray.\n\nПродолжить?"
+  6009, "Не удалось создать папку:"
+  6010, "Структура папок Blu-ray восстановлена успешно!"
+End
