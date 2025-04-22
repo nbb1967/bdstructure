@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.7.0.0-->
+<svg fill="none" fill-rule="evenodd" stroke="black" stroke-width="0.501" stroke-linejoin="bevel" stroke-miterlimit="10" font-family="Times New Roman" font-size="16" style="font-variant-ligatures:none" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="230.867pt" height="48.304pt" viewBox="694.205 -400.42 230.867 48.304">
+    <defs>
+        <style type="text/css"><![CDATA[
+   @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap')
+ ]]></style>
+    </defs>
+    <g id="Layer_1" transform="scale(1 -1)">
+        <path d="M 751.337,400.42 L 925.072,400.42 L 925.072,352.116 L 751.337,352.116 L 751.337,400.42 Z" fill="#ffffff" stroke="none" stroke-width="0" marker-start="none" marker-end="none" />
+        <text xml:space="preserve" transform="translate(751.337 362.177) scale(1 -1)" kerning="auto" font-size="40.248" font-weight="bold" font-family="Roboto" stroke-linejoin="round" stroke-linecap="round" stroke="none" stroke-width="0.308" fill="#000000">
+            <tspan x="1.761" y="0">Structure</tspan>
+        </text>
+        <path d="M 694.205,400.42 L 751.291,400.42 L 751.291,352.116 L 694.205,352.116 L 694.205,400.42 Z" fill="#0095d5" stroke="none" stroke-width="0" marker-start="none" marker-end="none" />
+        <text xml:space="preserve" transform="translate(694.205 362.177) scale(1 -1)" kerning="auto" font-size="40.248" font-weight="bold" font-family="Roboto" stroke-linejoin="round" stroke-linecap="round" stroke="none" stroke-width="0.308" fill="#ffffff">
+            <tspan x="3.522" y="0">BD</tspan>
+        </text>
+    </g>
+</svg>
